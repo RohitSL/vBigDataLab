@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+<configuration>
+    <property>
+        <name>dfs.replication</name>
+        <value>5</value>
+    </property>
+    <property>
+      <name>dfs.http.address</name>
+      <value>0.0.0.0:50070</value>
+      <description>The name of the default file system.  Either the
+         literal string "local" or a host:port for NDFS.
+      </description>
+      <final>true</final>
+    </property>
+</configuration>
