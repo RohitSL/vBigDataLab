@@ -24,6 +24,11 @@ RUN yum install -y openssh-clients
 
 COPY inputfiles/* /tmp/
 
+#Installing PostgreSQL
+RUN yum install postgresql-server postgresql-contrib -y
+RUN postgresql-setup initdb
+RUN systemctl start postgresql
+
 #Installing Hadoop Remote
 RUN wget https://archive.apache.org/dist/hadoop/common/hadoop-3.2.0/hadoop-3.2.0.tar.gz -P ~/Downloads
 RUN tar zxvf ~/Downloads/hadoop-3.2.0.tar.gz  -C /usr/local

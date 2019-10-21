@@ -1,0 +1,1095 @@
+<?xml version="1.0" encodinUnitsInStock="windows-1252" standalonQuantityPerUnit="yes"?>  
+<Records>
+  <Record>
+    <Row
+      ProductICategoryID="ProductID"
+      ProductNamQuantityPerUnit="ProductName"
+      SupplierICategoryID="SupplierID"
+      CategoryID="CategoryID"
+      QuantityPerUnit="QuantityPerUnit"
+      UnitPrice="UnitPrice"
+      UnitsInStock="UnitsInStock"
+      UnitsOnOrder="UnitsOnOrder"
+      ReorderLevel="ReorderLevel"
+      Discontinued="Discontinued"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="1"
+      ProductNamQuantityPerUnit="Chai"
+      SupplierICategoryID="1"
+      CategoryID="1"
+      QuantityPerUnit="10 boxes x 20 bags"
+      UnitPrice="18"
+      UnitsInStock="39"
+      UnitsOnOrder="0"
+      ReorderLevel="10"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="2"
+      ProductNamQuantityPerUnit="Chang"
+      SupplierICategoryID="1"
+      CategoryID="1"
+      QuantityPerUnit="24 - 12 oz bottles"
+      UnitPrice="19"
+      UnitsInStock="17"
+      UnitsOnOrder="40"
+      ReorderLevel="25"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="3"
+      ProductNamQuantityPerUnit="Aniseed Syrup"
+      SupplierICategoryID="1"
+      CategoryID="2"
+      QuantityPerUnit="12 - 550 ml bottles"
+      UnitPrice="10"
+      UnitsInStock="13"
+      UnitsOnOrder="70"
+      ReorderLevel="25"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="4"
+      ProductNamQuantityPerUnit="Chef Anton&apos;s Cajun Seasoning"
+      SupplierICategoryID="2"
+      CategoryID="2"
+      QuantityPerUnit="48 - 6 oz jars"
+      UnitPrice="22"
+      UnitsInStock="53"
+      UnitsOnOrder="0"
+      ReorderLevel="0"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="5"
+      ProductNamQuantityPerUnit="Chef Anton&apos;s Gumbo Mix"
+      SupplierICategoryID="2"
+      CategoryID="2"
+      QuantityPerUnit="36 boxes"
+      UnitPrice="21.35"
+      UnitsInStock="0"
+      UnitsOnOrder="0"
+      ReorderLevel="0"
+      Discontinued="1"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="6"
+      ProductNamQuantityPerUnit="Grandma&apos;s Boysenberry Spread"
+      SupplierICategoryID="3"
+      CategoryID="2"
+      QuantityPerUnit="12 - 8 oz jars"
+      UnitPrice="25"
+      UnitsInStock="120"
+      UnitsOnOrder="0"
+      ReorderLevel="25"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="7"
+      ProductNamQuantityPerUnit="Uncle Bob&apos;s Organic Dried Pears"
+      SupplierICategoryID="3"
+      CategoryID="7"
+      QuantityPerUnit="12 - 1 lb pkgs."
+      UnitPrice="30"
+      UnitsInStock="15"
+      UnitsOnOrder="0"
+      ReorderLevel="10"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="8"
+      ProductNamQuantityPerUnit="Northwoods Cranberry Sauce"
+      SupplierICategoryID="3"
+      CategoryID="2"
+      QuantityPerUnit="12 - 12 oz jars"
+      UnitPrice="40"
+      UnitsInStock="6"
+      UnitsOnOrder="0"
+      ReorderLevel="0"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="9"
+      ProductNamQuantityPerUnit="Mishi Kobe Niku"
+      SupplierICategoryID="4"
+      CategoryID="6"
+      QuantityPerUnit="18 - 500 g pkgs."
+      UnitPrice="97"
+      UnitsInStock="29"
+      UnitsOnOrder="0"
+      ReorderLevel="0"
+      Discontinued="1"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="10"
+      ProductNamQuantityPerUnit="Ikura"
+      SupplierICategoryID="4"
+      CategoryID="8"
+      QuantityPerUnit="12 - 200 ml jars"
+      UnitPrice="31"
+      UnitsInStock="31"
+      UnitsOnOrder="0"
+      ReorderLevel="0"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="11"
+      ProductNamQuantityPerUnit="Queso Cabrales"
+      SupplierICategoryID="5"
+      CategoryID="4"
+      QuantityPerUnit="1 kg pkg."
+      UnitPrice="21"
+      UnitsInStock="22"
+      UnitsOnOrder="30"
+      ReorderLevel="30"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="12"
+      ProductNamQuantityPerUnit="Queso Manchego La Pastora"
+      SupplierICategoryID="5"
+      CategoryID="4"
+      QuantityPerUnit="10 - 500 g pkgs."
+      UnitPrice="38"
+      UnitsInStock="86"
+      UnitsOnOrder="0"
+      ReorderLevel="0"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="13"
+      ProductNamQuantityPerUnit="Konbu"
+      SupplierICategoryID="6"
+      CategoryID="8"
+      QuantityPerUnit="2 kg box"
+      UnitPrice="6"
+      UnitsInStock="24"
+      UnitsOnOrder="0"
+      ReorderLevel="5"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="14"
+      ProductNamQuantityPerUnit="Tofu"
+      SupplierICategoryID="6"
+      CategoryID="7"
+      QuantityPerUnit="40 - 100 g pkgs."
+      UnitPrice="23.25"
+      UnitsInStock="35"
+      UnitsOnOrder="0"
+      ReorderLevel="0"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="15"
+      ProductNamQuantityPerUnit="Genen Shouyu"
+      SupplierICategoryID="6"
+      CategoryID="2"
+      QuantityPerUnit="24 - 250 ml bottles"
+      UnitPrice="15.5"
+      UnitsInStock="39"
+      UnitsOnOrder="0"
+      ReorderLevel="5"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="16"
+      ProductNamQuantityPerUnit="Pavlova"
+      SupplierICategoryID="7"
+      CategoryID="3"
+      QuantityPerUnit="32 - 500 g boxes"
+      UnitPrice="17.45"
+      UnitsInStock="29"
+      UnitsOnOrder="0"
+      ReorderLevel="10"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="17"
+      ProductNamQuantityPerUnit="Alice Mutton"
+      SupplierICategoryID="7"
+      CategoryID="6"
+      QuantityPerUnit="20 - 1 kg tins"
+      UnitPrice="39"
+      UnitsInStock="0"
+      UnitsOnOrder="0"
+      ReorderLevel="0"
+      Discontinued="1"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="18"
+      ProductNamQuantityPerUnit="Carnarvon Tigers"
+      SupplierICategoryID="7"
+      CategoryID="8"
+      QuantityPerUnit="16 kg pkg."
+      UnitPrice="62.5"
+      UnitsInStock="42"
+      UnitsOnOrder="0"
+      ReorderLevel="0"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="19"
+      ProductNamQuantityPerUnit="Teatime Chocolate Biscuits"
+      SupplierICategoryID="8"
+      CategoryID="3"
+      QuantityPerUnit="10 boxes x 12 pieces"
+      UnitPrice="9.2"
+      UnitsInStock="25"
+      UnitsOnOrder="0"
+      ReorderLevel="5"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="20"
+      ProductNamQuantityPerUnit="Sir Rodney&apos;s Marmalade"
+      SupplierICategoryID="8"
+      CategoryID="3"
+      QuantityPerUnit="30 gift boxes"
+      UnitPrice="81"
+      UnitsInStock="40"
+      UnitsOnOrder="0"
+      ReorderLevel="0"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="21"
+      ProductNamQuantityPerUnit="Sir Rodney&apos;s Scones"
+      SupplierICategoryID="8"
+      CategoryID="3"
+      QuantityPerUnit="24 pkgs. x 4 pieces"
+      UnitPrice="10"
+      UnitsInStock="3"
+      UnitsOnOrder="40"
+      ReorderLevel="5"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="22"
+      ProductNamQuantityPerUnit="Gustaf&apos;s KnÃ¤ckebrÃ&para;d"
+      SupplierICategoryID="9"
+      CategoryID="5"
+      QuantityPerUnit="24 - 500 g pkgs."
+      UnitPrice="21"
+      UnitsInStock="104"
+      UnitsOnOrder="0"
+      ReorderLevel="25"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="23"
+      ProductNamQuantityPerUnit="TunnbrÃ&para;d"
+      SupplierICategoryID="9"
+      CategoryID="5"
+      QuantityPerUnit="12 - 250 g pkgs."
+      UnitPrice="9"
+      UnitsInStock="61"
+      UnitsOnOrder="0"
+      ReorderLevel="25"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="24"
+      ProductNamQuantityPerUnit="GuaranÃ¡ FantÃ¡stica"
+      SupplierICategoryID="10"
+      CategoryID="1"
+      QuantityPerUnit="12 - 355 ml cans"
+      UnitPrice="4.5"
+      UnitsInStock="20"
+      UnitsOnOrder="0"
+      ReorderLevel="0"
+      Discontinued="1"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="25"
+      ProductNamQuantityPerUnit="NuNuCa NuÃŸ-Nougat-Creme"
+      SupplierICategoryID="11"
+      CategoryID="3"
+      QuantityPerUnit="20 - 450 g glasses"
+      UnitPrice="14"
+      UnitsInStock="76"
+      UnitsOnOrder="0"
+      ReorderLevel="30"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="26"
+      ProductNamQuantityPerUnit="GumbÃ¤r GummibÃ¤rchen"
+      SupplierICategoryID="11"
+      CategoryID="3"
+      QuantityPerUnit="100 - 250 g bags"
+      UnitPrice="31.23"
+      UnitsInStock="15"
+      UnitsOnOrder="0"
+      ReorderLevel="0"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="27"
+      ProductNamQuantityPerUnit="Schoggi Schokolade"
+      SupplierICategoryID="11"
+      CategoryID="3"
+      QuantityPerUnit="100 - 100 g pieces"
+      UnitPrice="43.9"
+      UnitsInStock="49"
+      UnitsOnOrder="0"
+      ReorderLevel="30"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="28"
+      ProductNamQuantityPerUnit="RÃ&para;ssle Sauerkraut"
+      SupplierICategoryID="12"
+      CategoryID="7"
+      QuantityPerUnit="25 - 825 g cans"
+      UnitPrice="45.6"
+      UnitsInStock="26"
+      UnitsOnOrder="0"
+      ReorderLevel="0"
+      Discontinued="1"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="29"
+      ProductNamQuantityPerUnit="ThÃ¼ringer Rostbratwurst"
+      SupplierICategoryID="12"
+      CategoryID="6"
+      QuantityPerUnit="50 bags x 30 sausgs."
+      UnitPrice="123.79"
+      UnitsInStock="0"
+      UnitsOnOrder="0"
+      ReorderLevel="0"
+      Discontinued="1"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="30"
+      ProductNamQuantityPerUnit="Nord-Ost Matjeshering"
+      SupplierICategoryID="13"
+      CategoryID="8"
+      QuantityPerUnit="10 - 200 g glasses"
+      UnitPrice="25.89"
+      UnitsInStock="10"
+      UnitsOnOrder="0"
+      ReorderLevel="15"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="31"
+      ProductNamQuantityPerUnit="Gorgonzola Telino"
+      SupplierICategoryID="14"
+      CategoryID="4"
+      QuantityPerUnit="12 - 100 g pkgs"
+      UnitPrice="12.5"
+      UnitsInStock="0"
+      UnitsOnOrder="70"
+      ReorderLevel="20"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="32"
+      ProductNamQuantityPerUnit="Mascarpone Fabioli"
+      SupplierICategoryID="14"
+      CategoryID="4"
+      QuantityPerUnit="24 - 200 g pkgs."
+      UnitPrice="32"
+      UnitsInStock="9"
+      UnitsOnOrder="40"
+      ReorderLevel="25"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="33"
+      ProductNamQuantityPerUnit="Geitost"
+      SupplierICategoryID="15"
+      CategoryID="4"
+      QuantityPerUnit="500 g"
+      UnitPrice="2.5"
+      UnitsInStock="112"
+      UnitsOnOrder="0"
+      ReorderLevel="20"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="34"
+      ProductNamQuantityPerUnit="Sasquatch Ale"
+      SupplierICategoryID="16"
+      CategoryID="1"
+      QuantityPerUnit="24 - 12 oz bottles"
+      UnitPrice="14"
+      UnitsInStock="111"
+      UnitsOnOrder="0"
+      ReorderLevel="15"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="35"
+      ProductNamQuantityPerUnit="Steeleye Stout"
+      SupplierICategoryID="16"
+      CategoryID="1"
+      QuantityPerUnit="24 - 12 oz bottles"
+      UnitPrice="18"
+      UnitsInStock="20"
+      UnitsOnOrder="0"
+      ReorderLevel="15"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="36"
+      ProductNamQuantityPerUnit="Inlagd Sill"
+      SupplierICategoryID="17"
+      CategoryID="8"
+      QuantityPerUnit="24 - 250 g  jars"
+      UnitPrice="19"
+      UnitsInStock="112"
+      UnitsOnOrder="0"
+      ReorderLevel="20"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="37"
+      ProductNamQuantityPerUnit="Gravad lax"
+      SupplierICategoryID="17"
+      CategoryID="8"
+      QuantityPerUnit="12 - 500 g pkgs."
+      UnitPrice="26"
+      UnitsInStock="11"
+      UnitsOnOrder="50"
+      ReorderLevel="25"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="38"
+      ProductNamQuantityPerUnit="CÃ´te de Blaye"
+      SupplierICategoryID="18"
+      CategoryID="1"
+      QuantityPerUnit="12 - 75 cl bottles"
+      UnitPrice="263.5"
+      UnitsInStock="17"
+      UnitsOnOrder="0"
+      ReorderLevel="15"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="39"
+      ProductNamQuantityPerUnit="Chartreuse verte"
+      SupplierICategoryID="18"
+      CategoryID="1"
+      QuantityPerUnit="750 cc per bottle"
+      UnitPrice="18"
+      UnitsInStock="69"
+      UnitsOnOrder="0"
+      ReorderLevel="5"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="40"
+      ProductNamQuantityPerUnit="Boston Crab Meat"
+      SupplierICategoryID="19"
+      CategoryID="8"
+      QuantityPerUnit="24 - 4 oz tins"
+      UnitPrice="18.4"
+      UnitsInStock="123"
+      UnitsOnOrder="0"
+      ReorderLevel="30"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="41"
+      ProductNamQuantityPerUnit="Jack&apos;s New England Clam Chowder"
+      SupplierICategoryID="19"
+      CategoryID="8"
+      QuantityPerUnit="12 - 12 oz cans"
+      UnitPrice="9.65"
+      UnitsInStock="85"
+      UnitsOnOrder="0"
+      ReorderLevel="10"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="42"
+      ProductNamQuantityPerUnit="Singaporean Hokkien Fried Mee"
+      SupplierICategoryID="20"
+      CategoryID="5"
+      QuantityPerUnit="32 - 1 kg pkgs."
+      UnitPrice="14"
+      UnitsInStock="26"
+      UnitsOnOrder="0"
+      ReorderLevel="0"
+      Discontinued="1"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="43"
+      ProductNamQuantityPerUnit="Ipoh Coffee"
+      SupplierICategoryID="20"
+      CategoryID="1"
+      QuantityPerUnit="16 - 500 g tins"
+      UnitPrice="46"
+      UnitsInStock="17"
+      UnitsOnOrder="10"
+      ReorderLevel="25"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="44"
+      ProductNamQuantityPerUnit="Gula Malacca"
+      SupplierICategoryID="20"
+      CategoryID="2"
+      QuantityPerUnit="20 - 2 kg bags"
+      UnitPrice="19.45"
+      UnitsInStock="27"
+      UnitsOnOrder="0"
+      ReorderLevel="15"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="45"
+      ProductNamQuantityPerUnit="Rogede sild"
+      SupplierICategoryID="21"
+      CategoryID="8"
+      QuantityPerUnit="1k pkg."
+      UnitPrice="9.5"
+      UnitsInStock="5"
+      UnitsOnOrder="70"
+      ReorderLevel="15"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="46"
+      ProductNamQuantityPerUnit="Spegesild"
+      SupplierICategoryID="21"
+      CategoryID="8"
+      QuantityPerUnit="4 - 450 g glasses"
+      UnitPrice="12"
+      UnitsInStock="95"
+      UnitsOnOrder="0"
+      ReorderLevel="0"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="47"
+      ProductNamQuantityPerUnit="Zaanse koeken"
+      SupplierICategoryID="22"
+      CategoryID="3"
+      QuantityPerUnit="10 - 4 oz boxes"
+      UnitPrice="9.5"
+      UnitsInStock="36"
+      UnitsOnOrder="0"
+      ReorderLevel="0"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="48"
+      ProductNamQuantityPerUnit="Chocolade"
+      SupplierICategoryID="22"
+      CategoryID="3"
+      QuantityPerUnit="10 pkgs."
+      UnitPrice="12.75"
+      UnitsInStock="15"
+      UnitsOnOrder="70"
+      ReorderLevel="25"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="49"
+      ProductNamQuantityPerUnit="Maxilaku"
+      SupplierICategoryID="23"
+      CategoryID="3"
+      QuantityPerUnit="24 - 50 g pkgs."
+      UnitPrice="20"
+      UnitsInStock="10"
+      UnitsOnOrder="60"
+      ReorderLevel="15"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="50"
+      ProductNamQuantityPerUnit="Valkoinen suklaa"
+      SupplierICategoryID="23"
+      CategoryID="3"
+      QuantityPerUnit="12 - 100 g bars"
+      UnitPrice="16.25"
+      UnitsInStock="65"
+      UnitsOnOrder="0"
+      ReorderLevel="30"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="51"
+      ProductNamQuantityPerUnit="Manjimup Dried Apples"
+      SupplierICategoryID="24"
+      CategoryID="7"
+      QuantityPerUnit="50 - 300 g pkgs."
+      UnitPrice="53"
+      UnitsInStock="20"
+      UnitsOnOrder="0"
+      ReorderLevel="10"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="52"
+      ProductNamQuantityPerUnit="Filo Mix"
+      SupplierICategoryID="24"
+      CategoryID="5"
+      QuantityPerUnit="16 - 2 kg boxes"
+      UnitPrice="7"
+      UnitsInStock="38"
+      UnitsOnOrder="0"
+      ReorderLevel="25"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="53"
+      ProductNamQuantityPerUnit="Perth Pasties"
+      SupplierICategoryID="24"
+      CategoryID="6"
+      QuantityPerUnit="48 pieces"
+      UnitPrice="32.8"
+      UnitsInStock="0"
+      UnitsOnOrder="0"
+      ReorderLevel="0"
+      Discontinued="1"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="54"
+      ProductNamQuantityPerUnit="TourtiÃ¨re"
+      SupplierICategoryID="25"
+      CategoryID="6"
+      QuantityPerUnit="16 pies"
+      UnitPrice="7.45"
+      UnitsInStock="21"
+      UnitsOnOrder="0"
+      ReorderLevel="10"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="55"
+      ProductNamQuantityPerUnit="PÃ¢tÃ&copy; chinois"
+      SupplierICategoryID="25"
+      CategoryID="6"
+      QuantityPerUnit="24 boxes x 2 pies"
+      UnitPrice="24"
+      UnitsInStock="115"
+      UnitsOnOrder="0"
+      ReorderLevel="20"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="56"
+      ProductNamQuantityPerUnit="Gnocchi di nonna Alice"
+      SupplierICategoryID="26"
+      CategoryID="5"
+      QuantityPerUnit="24 - 250 g pkgs."
+      UnitPrice="38"
+      UnitsInStock="21"
+      UnitsOnOrder="10"
+      ReorderLevel="30"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="57"
+      ProductNamQuantityPerUnit="Ravioli Angelo"
+      SupplierICategoryID="26"
+      CategoryID="5"
+      QuantityPerUnit="24 - 250 g pkgs."
+      UnitPrice="19.5"
+      UnitsInStock="36"
+      UnitsOnOrder="0"
+      ReorderLevel="20"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="58"
+      ProductNamQuantityPerUnit="Escargots de Bourgogne"
+      SupplierICategoryID="27"
+      CategoryID="8"
+      QuantityPerUnit="24 pieces"
+      UnitPrice="13.25"
+      UnitsInStock="62"
+      UnitsOnOrder="0"
+      ReorderLevel="20"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="59"
+      ProductNamQuantityPerUnit="Raclette Courdavault"
+      SupplierICategoryID="28"
+      CategoryID="4"
+      QuantityPerUnit="5 kg pkg."
+      UnitPrice="55"
+      UnitsInStock="79"
+      UnitsOnOrder="0"
+      ReorderLevel="0"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="60"
+      ProductNamQuantityPerUnit="Camembert Pierrot"
+      SupplierICategoryID="28"
+      CategoryID="4"
+      QuantityPerUnit="15 - 300 g rounds"
+      UnitPrice="34"
+      UnitsInStock="19"
+      UnitsOnOrder="0"
+      ReorderLevel="0"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="61"
+      ProductNamQuantityPerUnit="Sirop d&apos;Ã&copy;rable"
+      SupplierICategoryID="29"
+      CategoryID="2"
+      QuantityPerUnit="24 - 500 ml bottles"
+      UnitPrice="28.5"
+      UnitsInStock="113"
+      UnitsOnOrder="0"
+      ReorderLevel="25"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="62"
+      ProductNamQuantityPerUnit="Tarte au sucre"
+      SupplierICategoryID="29"
+      CategoryID="3"
+      QuantityPerUnit="48 pies"
+      UnitPrice="49.3"
+      UnitsInStock="17"
+      UnitsOnOrder="0"
+      ReorderLevel="0"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="63"
+      ProductNamQuantityPerUnit="Vegie-spread"
+      SupplierICategoryID="7"
+      CategoryID="2"
+      QuantityPerUnit="15 - 625 g jars"
+      UnitPrice="43.9"
+      UnitsInStock="24"
+      UnitsOnOrder="0"
+      ReorderLevel="5"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="64"
+      ProductNamQuantityPerUnit="Wimmers gute SemmelknÃ&para;del"
+      SupplierICategoryID="12"
+      CategoryID="5"
+      QuantityPerUnit="20 bags x 4 pieces"
+      UnitPrice="33.25"
+      UnitsInStock="22"
+      UnitsOnOrder="80"
+      ReorderLevel="30"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="65"
+      ProductNamQuantityPerUnit="Louisiana Fiery Hot Pepper Sauce"
+      SupplierICategoryID="2"
+      CategoryID="2"
+      QuantityPerUnit="32 - 8 oz bottles"
+      UnitPrice="21.05"
+      UnitsInStock="76"
+      UnitsOnOrder="0"
+      ReorderLevel="0"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="66"
+      ProductNamQuantityPerUnit="Louisiana Hot Spiced Okra"
+      SupplierICategoryID="2"
+      CategoryID="2"
+      QuantityPerUnit="24 - 8 oz jars"
+      UnitPrice="17"
+      UnitsInStock="4"
+      UnitsOnOrder="100"
+      ReorderLevel="20"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="67"
+      ProductNamQuantityPerUnit="Laughing Lumberjack Lager"
+      SupplierICategoryID="16"
+      CategoryID="1"
+      QuantityPerUnit="24 - 12 oz bottles"
+      UnitPrice="14"
+      UnitsInStock="52"
+      UnitsOnOrder="0"
+      ReorderLevel="10"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="68"
+      ProductNamQuantityPerUnit="Scottish Longbreads"
+      SupplierICategoryID="8"
+      CategoryID="3"
+      QuantityPerUnit="10 boxes x 8 pieces"
+      UnitPrice="12.5"
+      UnitsInStock="6"
+      UnitsOnOrder="10"
+      ReorderLevel="15"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="69"
+      ProductNamQuantityPerUnit="Gudbrandsdalsost"
+      SupplierICategoryID="15"
+      CategoryID="4"
+      QuantityPerUnit="10 kg pkg."
+      UnitPrice="36"
+      UnitsInStock="26"
+      UnitsOnOrder="0"
+      ReorderLevel="15"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="70"
+      ProductNamQuantityPerUnit="Outback Lager"
+      SupplierICategoryID="7"
+      CategoryID="1"
+      QuantityPerUnit="24 - 355 ml bottles"
+      UnitPrice="15"
+      UnitsInStock="15"
+      UnitsOnOrder="10"
+      ReorderLevel="30"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="71"
+      ProductNamQuantityPerUnit="Flotemysost"
+      SupplierICategoryID="15"
+      CategoryID="4"
+      QuantityPerUnit="10 - 500 g pkgs."
+      UnitPrice="21.5"
+      UnitsInStock="26"
+      UnitsOnOrder="0"
+      ReorderLevel="0"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="72"
+      ProductNamQuantityPerUnit="Mozzarella di Giovanni"
+      SupplierICategoryID="14"
+      CategoryID="4"
+      QuantityPerUnit="24 - 200 g pkgs."
+      UnitPrice="34.8"
+      UnitsInStock="14"
+      UnitsOnOrder="0"
+      ReorderLevel="0"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="73"
+      ProductNamQuantityPerUnit="RÃ&para;d Kaviar"
+      SupplierICategoryID="17"
+      CategoryID="8"
+      QuantityPerUnit="24 - 150 g jars"
+      UnitPrice="15"
+      UnitsInStock="101"
+      UnitsOnOrder="0"
+      ReorderLevel="5"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="74"
+      ProductNamQuantityPerUnit="Longlife Tofu"
+      SupplierICategoryID="4"
+      CategoryID="7"
+      QuantityPerUnit="5 kg pkg."
+      UnitPrice="10"
+      UnitsInStock="4"
+      UnitsOnOrder="20"
+      ReorderLevel="5"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="75"
+      ProductNamQuantityPerUnit="RhÃ&para;nbrÃ¤u Klosterbier"
+      SupplierICategoryID="12"
+      CategoryID="1"
+      QuantityPerUnit="24 - 0.5 l bottles"
+      UnitPrice="7.75"
+      UnitsInStock="125"
+      UnitsOnOrder="0"
+      ReorderLevel="25"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="76"
+      ProductNamQuantityPerUnit="LakkalikÃ&para;Ã&para;ri"
+      SupplierICategoryID="23"
+      CategoryID="1"
+      QuantityPerUnit="500 ml"
+      UnitPrice="18"
+      UnitsInStock="57"
+      UnitsOnOrder="0"
+      ReorderLevel="20"
+      Discontinued="0"
+    />
+  </Record>
+  <Record>
+    <Row
+      ProductICategoryID="77"
+      ProductNamQuantityPerUnit="Original Frankfurter grÃ¼ne SoÃŸe"
+      SupplierICategoryID="12"
+      CategoryID="2"
+      QuantityPerUnit="12 boxes"
+      UnitPrice="13"
+      UnitsInStock="32"
+      UnitsOnOrder="0"
+      ReorderLevel="15"
+      Discontinued="0"
+    />
+  </Record>
+</Records>

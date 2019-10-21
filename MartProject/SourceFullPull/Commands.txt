@@ -1,0 +1,9 @@
+docker cp C:\Users\rosab\Desktop\RONETLFramework\vBigDataLab\MartProject\SourceFullPull master:/tmp/SourceFullPull
+docker cp C:\Users\rosab\Desktop\RONETLFramework\vBigDataLab\MartProject\SourceDeltaInsert master:/tmp/SourceDeltaInsert
+docker cp C:\Users\rosab\Desktop\RONETLFramework\vBigDataLab\MartProject\SourceDeltaUpdate master:/tmp/SourceDeltaUpdate
+docker cp C:\Users\rosab\Desktop\RONETLFramework\vBigDataLab\SampleData master:/tmp/SampleData
+hadoop fs -mkdir /northwind
+hadoop fs -copyFromLocal -f /tmp/SourceFullPull /northwind
+hadoop fs -copyFromLocal -f /tmp/SourceDeltaInsert /northwind
+hadoop fs -copyFromLocal -f /tmp/SourceDeltaUpdate /northwind
+hadoop fs -copyFromLocal -f /tmp/SampleData /SampleData

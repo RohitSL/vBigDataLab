@@ -1,0 +1,5 @@
+*.txt -crlf
+*.xml -crlf
+*.json -crlf
+*.sh -crlf
+* -cflf
