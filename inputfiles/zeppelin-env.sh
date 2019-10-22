@@ -25,7 +25,6 @@ export MASTER=spark://master:7077              		# Spark master url. eg. spark:/
 # export ZEPPELIN_SSL_PORT       		# ssl port (used when ssl environment variable is set to true)
 # export ZEPPELIN_JMX_ENABLE    		# Enable JMX feature by defining "true"
 # export ZEPPELIN_JMX_PORT      		# Port number which JMX uses. Default: "9996"
-
 export ZEPPELIN_LOG_DIR=/usr/local/zeppelin/log        		# Where log files are stored.  PWD by default.
 export ZEPPELIN_PID_DIR=/usr/local/zeppelin/run       		# The pid files are stored. ${ZEPPELIN_HOME}/run by default.
 # export ZEPPELIN_WAR_TEMPDIR    		# The location of jetty temporary directory.
